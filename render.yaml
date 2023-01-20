@@ -1,4 +1,4 @@
-databses: 
+databases: 
   - name: mysite
     databaseName: mysite
     user: uchenry
